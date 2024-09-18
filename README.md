@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @alejandroskar
-- 👀 I’m interested in Bitcoins
-- 🌱 I’m currently learning Living
-- 💞️ I’m looking to collaborate on Get money
-- 📫 How to reach me at house
+- 👀 I’m interested in Ants colony
+- 🌱 I’m currently Learn to live
+- 💞️ I’m looking to collaborate on To get fun and xp
+- 📫 How to reach me alejandroskar@gmail.com
 - 😄 Pronouns: Apache helicopter 
-- ⚡ Fun fact: Java >>> C++
+- ⚡ Fun fact: Loving is easy, thinking about loving is not.
 
 <!---
 alejandroskar/alejandroskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
